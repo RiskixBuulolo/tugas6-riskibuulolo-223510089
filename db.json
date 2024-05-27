@@ -1,0 +1,24 @@
+{
+  "articles": [
+    {
+      "id": "5725",
+      "title": "artikel 1",
+      "content": "ini konten 1"
+    },
+    {
+      "id": "6f3f",
+      "title": "artikel 2",
+      "content": "ini konten 2"
+    },
+    {
+      "id": "6018",
+      "title": "artikel 3",
+      "content": "ini konten 3"
+    },
+    {
+      "id": "ca05",
+      "title": "testing",
+      "content": "ini testing"
+    }
+  ]
+}
